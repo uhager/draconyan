@@ -1,0 +1,19 @@
+projectile	17O
+target		1H
+projChargeState	3
+stoppingFactor	1.6738
+MCPeff		0.85	0.05     
+MCPtrans	0.85	0.05
+#deltaE		0.7
+#deltaP		0.5
+dataFile	runs_5plus_CS1.dat
+#geantFile	geant_res.dat
+recoilFile	recoils_5plus.dat
+SbFile		Sb_lt_Sep2012.dat
+targetLength	12.3	0.4
+dPressure	2        #in %
+#dEnergy		0.5
+dFC4		5
+#step		2
+#setFile		DraconyanIn_res_sets.dat
+#FeldmanCousinsLimits	0

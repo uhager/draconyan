@@ -1,0 +1,5 @@
+Calculates normaliation factors, total beam, yields, reaction rates, and S-factors.
+Example input files (.dat) are provided.
+Run with
+$ python DraconyanRun.py
+See html for documentation.
