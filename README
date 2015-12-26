@@ -2,4 +2,5 @@ Calculates normaliation factors, total beam, yields, reaction rates, and S-facto
 Example input files (.dat) are provided.
 Run with
 $ python DraconyanRun.py
-See html for documentation.
+Generate html documentation using epydoc:
+$ epydoc --html Draconyan.py GetMass.py RunSet.py
