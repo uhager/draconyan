@@ -11,3 +11,5 @@ $ epydoc --html Draconyan.py GetMass.py RunSet.py
 
 or doxygen
 $ doxygen Doxyfile
+
+or go to http://uhager.github.io/draconyan/index.html.
