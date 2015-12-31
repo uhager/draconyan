@@ -52,7 +52,6 @@ class RunSettings:
         self.Ecm[1] = self.Ecm[1]/1000.0 * massTarg/(massTarg+massProj)
 
 
-############## Set ######################
     
 class Set(RunSettings):
     """Set of runs with same incoming beam energy and target pressure."""
@@ -601,7 +600,6 @@ class Set(RunSettings):
 
             
 
-############# Run  ####################
 
 class Run(RunSettings):
     """Contains data for a single run."""
